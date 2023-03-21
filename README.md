@@ -2,7 +2,7 @@
 
 Welcome to the how to fail your research degree digital version project documentation. The goal of this document is to offer a comprehensive overview of the project and its numerous components. It applies to the project's developers, project managers, and other stakeholders. A complete project overview, technical requirements, coding standards, development plans, and a user manual are all included in this paper. We would like to thank the whole team for their efforts, which enabled us to create this paper.
 
-## Contents
+## 0.Contents
 ### How To Fail Your Research Degree Digital Version	
 #### 1. Project Overview:	
 #### 2. Design Document:	
